@@ -30,7 +30,7 @@ class ArboreBinar:
         
 
 class FileParser:
-    FILE_PATH = "/home/school/Projects/5programe/"
+    FILE_PATH = "/home/school/Projects/wsmt5probleme/"
     def readLines(self):
         radacina = False
         set = []
@@ -39,15 +39,12 @@ class FileParser:
         filer = open(numeFisier, 'r')
         Lines = filer.readlines()
         for line in Lines:
-            print(line)
             dateList = line.split(',')
-            print(dateList)
             if len(dateList) != 4:
                 raise Exception("Datele sunt insuficiente")
             aux = Aux(dateList[3],int(dateList[0]),int(dateList[1]),int(dateList[2]))
             if aux.parinte < 0:
                 if radacina is False:
-                    print("are")
                     radacina = True
                 else:
                     raise Exception("Arborele nu poate avea 2 radacini")

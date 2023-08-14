@@ -24,11 +24,10 @@ class Nod{
     }
 }
 class FileParser{
-    public const FILE_PATH = "/home/school/Projects/5programe/";
+    public const FILE_PATH = "/home/school/Projects/wsmt5probleme/";
 
     function readLines(){
-        $fisier = readline('Enter a string: ');
-        print(self::FILE_PATH.$fisier);
+        $fisier = readline('Dati numele fisierului: ');
         $file = fopen(self::FILE_PATH.$fisier,"r");
         $set = array();
         $radacina = false;

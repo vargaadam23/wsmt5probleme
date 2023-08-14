@@ -1,0 +1,15 @@
+/home/school/Projects/wsmt5probleme/c#/bin/Debug/net6.0/c#
+/home/school/Projects/wsmt5probleme/c#/bin/Debug/net6.0/c#.deps.json
+/home/school/Projects/wsmt5probleme/c#/bin/Debug/net6.0/c#.runtimeconfig.json
+/home/school/Projects/wsmt5probleme/c#/bin/Debug/net6.0/c#.dll
+/home/school/Projects/wsmt5probleme/c#/bin/Debug/net6.0/c#.pdb
+/home/school/Projects/wsmt5probleme/c#/obj/Debug/net6.0/c#.csproj.AssemblyReference.cache
+/home/school/Projects/wsmt5probleme/c#/obj/Debug/net6.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/school/Projects/wsmt5probleme/c#/obj/Debug/net6.0/c#.AssemblyInfoInputs.cache
+/home/school/Projects/wsmt5probleme/c#/obj/Debug/net6.0/c#.AssemblyInfo.cs
+/home/school/Projects/wsmt5probleme/c#/obj/Debug/net6.0/c#.csproj.CoreCompileInputs.cache
+/home/school/Projects/wsmt5probleme/c#/obj/Debug/net6.0/c#.dll
+/home/school/Projects/wsmt5probleme/c#/obj/Debug/net6.0/refint/c#.dll
+/home/school/Projects/wsmt5probleme/c#/obj/Debug/net6.0/c#.pdb
+/home/school/Projects/wsmt5probleme/c#/obj/Debug/net6.0/c#.genruntimeconfig.cache
+/home/school/Projects/wsmt5probleme/c#/obj/Debug/net6.0/ref/c#.dll
